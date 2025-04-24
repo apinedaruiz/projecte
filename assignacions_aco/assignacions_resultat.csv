@@ -1,0 +1,409 @@
+﻿id_treballador,nom,hora,id_posicio,posicio,clasificador,familia
+1,Albina,06:00 - 07:00,25,Destinos mesa 5,2,2
+1,Albina,07:00 - 08:00,95,Rampas/cajas vacias,4,7
+1,Albina,08:00 - 09:00,94,Sequence 4,4,6
+1,Albina,09:00 - 10:00,44,Sequence,2,6
+1,Albina,10:00 - 11:00,64,Destinos mesa 9,3,2
+1,Albina,11:00 - 12:00,74,Inducciones mesa 3,4,1
+1,Albina,12:00 - 13:00,64,Destinos mesa 9,3,2
+1,Albina,13:00 - 14:00,74,Inducciones mesa 3,4,1
+3,Ángela,06:00 - 07:00,70,Sequence 3,3,6
+3,Ángela,07:00 - 08:00,32,Destinos mesa 12,2,2
+3,Ángela,08:00 - 09:00,26,Destinos mesa 6,2,2
+3,Ángela,09:00 - 10:00,30,Destinos mesa 10,2,2
+3,Ángela,10:00 - 11:00,20,Inducciones mesa 20,2,1
+3,Ángela,11:00 - 12:00,27,Destinos mesa 7,2,2
+3,Ángela,12:00 - 13:00,93,Precintadora shuttle,4,8
+3,Ángela,13:00 - 14:00,44,Sequence,2,6
+4,Ariel,06:00 - 07:00,46,Inducciones mesa 1,3,1
+4,Ariel,07:00 - 08:00,41,Chequeo,2,3
+4,Ariel,08:00 - 09:00,39,Destinos mesa 19,2,2
+4,Ariel,09:00 - 10:00,87,Destinos mesa 6,4,2
+4,Ariel,10:00 - 11:00,93,Precintadora shuttle,4,8
+4,Ariel,11:00 - 12:00,48,Inducciones mesa 3,3,1
+4,Ariel,12:00 - 13:00,52,Inducciones mesa 7,3,1
+4,Ariel,13:00 - 14:00,33,Destinos mesa 13,2,2
+8,Pelayo,06:00 - 07:00,61,Destinos mesa 6,3,2
+8,Pelayo,07:00 - 08:00,91,Destinos mesa 10,4,2
+8,Pelayo,08:00 - 09:00,46,Inducciones mesa 1,3,1
+8,Pelayo,09:00 - 10:00,92,Precintadora shipping,4,4
+8,Pelayo,10:00 - 11:00,79,Inducciones mesa 8,4,1
+8,Pelayo,11:00 - 12:00,23,Destinos mesa 3,2,2
+8,Pelayo,12:00 - 13:00,57,Destinos mesa 2,3,2
+8,Pelayo,13:00 - 14:00,69,Rechazo 3/4,3,5
+9,Juan,06:00 - 07:00,61,Destinos mesa 6,3,2
+9,Juan,07:00 - 08:00,60,Destinos mesa 5,3,2
+9,Juan,08:00 - 09:00,85,Destinos mesa 4,4,2
+9,Juan,09:00 - 10:00,75,Inducciones mesa 4,4,1
+9,Juan,10:00 - 11:00,23,Destinos mesa 3,2,2
+9,Juan,11:00 - 12:00,3,Inducciones mesa 3,2,1
+9,Juan,12:00 - 13:00,2,Inducciones mesa 2,2,1
+9,Juan,13:00 - 14:00,90,Destinos mesa 9,4,2
+10,Cristina,06:00 - 07:00,26,Destinos mesa 6,2,2
+10,Cristina,07:00 - 08:00,35,Destinos mesa 15,2,2
+10,Cristina,08:00 - 09:00,34,Destinos mesa 14,2,2
+10,Cristina,09:00 - 10:00,68,Precintadora shuttle,3,8
+10,Cristina,10:00 - 11:00,36,Destinos mesa 16,2,2
+10,Cristina,11:00 - 12:00,37,Destinos mesa 17,2,2
+10,Cristina,12:00 - 13:00,55,Inducciones mesa 10,3,1
+10,Cristina,13:00 - 14:00,23,Destinos mesa 3,2,2
+11,Francisco Javier,06:00 - 07:00,13,Inducciones mesa 13,2,1
+11,Francisco Javier,07:00 - 08:00,76,Inducciones mesa 5,4,1
+11,Francisco Javier,08:00 - 09:00,91,Destinos mesa 10,4,2
+11,Francisco Javier,09:00 - 10:00,43,Rechazo,2,5
+11,Francisco Javier,10:00 - 11:00,50,Inducciones mesa 5,3,1
+11,Francisco Javier,11:00 - 12:00,40,Destinos mesa 20,2,2
+11,Francisco Javier,12:00 - 13:00,78,Inducciones mesa 7,4,1
+11,Francisco Javier,13:00 - 14:00,26,Destinos mesa 6,2,2
+13,Ana,06:00 - 07:00,22,Destinos mesa 2,2,2
+13,Ana,07:00 - 08:00,45,Rampas/cajas vacias,2,7
+13,Ana,08:00 - 09:00,74,Inducciones mesa 3,4,1
+13,Ana,09:00 - 10:00,37,Destinos mesa 17,2,2
+13,Ana,10:00 - 11:00,44,Sequence,2,6
+13,Ana,11:00 - 12:00,11,Inducciones mesa 11,2,1
+13,Ana,12:00 - 13:00,90,Destinos mesa 9,4,2
+13,Ana,13:00 - 14:00,84,Destinos mesa 3,4,2
+24,Juan Luis,06:00 - 07:00,92,Precintadora shipping,4,4
+24,Juan Luis,07:00 - 08:00,56,Destinos mesa 1,3,2
+24,Juan Luis,08:00 - 09:00,7,Inducciones mesa 7,2,1
+24,Juan Luis,09:00 - 10:00,51,Inducciones mesa 6,3,1
+24,Juan Luis,10:00 - 11:00,43,Rechazo,2,5
+24,Juan Luis,11:00 - 12:00,88,Destinos mesa 7,4,2
+24,Juan Luis,12:00 - 13:00,11,Inducciones mesa 11,2,1
+24,Juan Luis,13:00 - 14:00,75,Inducciones mesa 4,4,1
+25,Aurelio,06:00 - 07:00,94,Sequence 4,4,6
+25,Aurelio,07:00 - 08:00,74,Inducciones mesa 3,4,1
+25,Aurelio,08:00 - 09:00,42,Precintadora shipping,2,4
+25,Aurelio,09:00 - 10:00,36,Destinos mesa 16,2,2
+25,Aurelio,10:00 - 11:00,43,Rechazo,2,5
+25,Aurelio,11:00 - 12:00,76,Inducciones mesa 5,4,1
+25,Aurelio,12:00 - 13:00,49,Inducciones mesa 4,3,1
+25,Aurelio,13:00 - 14:00,31,Destinos mesa 11,2,2
+28,Antonia,06:00 - 07:00,69,Rechazo 3/4,3,5
+28,Antonia,07:00 - 08:00,45,Rampas/cajas vacias,2,7
+28,Antonia,08:00 - 09:00,39,Destinos mesa 19,2,2
+28,Antonia,09:00 - 10:00,92,Precintadora shipping,4,4
+28,Antonia,10:00 - 11:00,26,Destinos mesa 6,2,2
+28,Antonia,11:00 - 12:00,95,Rampas/cajas vacias,4,7
+28,Antonia,12:00 - 13:00,10,Inducciones mesa 10,2,1
+28,Antonia,13:00 - 14:00,8,Inducciones mesa 8,2,1
+29,Andrea,06:00 - 07:00,52,Inducciones mesa 7,3,1
+29,Andrea,07:00 - 08:00,69,Rechazo 3/4,3,5
+29,Andrea,08:00 - 09:00,94,Sequence 4,4,6
+29,Andrea,09:00 - 10:00,25,Destinos mesa 5,2,2
+29,Andrea,10:00 - 11:00,95,Rampas/cajas vacias,4,7
+29,Andrea,11:00 - 12:00,89,Destinos mesa 8,4,2
+29,Andrea,12:00 - 13:00,90,Destinos mesa 9,4,2
+29,Andrea,13:00 - 14:00,10,Inducciones mesa 10,2,1
+32,Miriam,06:00 - 07:00,25,Destinos mesa 5,2,2
+32,Miriam,07:00 - 08:00,12,Inducciones mesa 12,2,1
+32,Miriam,08:00 - 09:00,25,Destinos mesa 5,2,2
+32,Miriam,09:00 - 10:00,20,Inducciones mesa 20,2,1
+32,Miriam,10:00 - 11:00,41,Chequeo,2,3
+32,Miriam,11:00 - 12:00,42,Precintadora shipping,2,4
+32,Miriam,12:00 - 13:00,33,Destinos mesa 13,2,2
+32,Miriam,13:00 - 14:00,33,Destinos mesa 13,2,2
+33,Iker,06:00 - 07:00,13,Inducciones mesa 13,2,1
+33,Iker,07:00 - 08:00,36,Destinos mesa 16,2,2
+33,Iker,08:00 - 09:00,67,Precintadora shipping,3,4
+33,Iker,09:00 - 10:00,60,Destinos mesa 5,3,2
+33,Iker,10:00 - 11:00,45,Rampas/cajas vacias,2,7
+33,Iker,11:00 - 12:00,11,Inducciones mesa 11,2,1
+33,Iker,12:00 - 13:00,57,Destinos mesa 2,3,2
+33,Iker,13:00 - 14:00,11,Inducciones mesa 11,2,1
+34,Francisco,06:00 - 07:00,93,Precintadora shuttle,4,8
+34,Francisco,07:00 - 08:00,52,Inducciones mesa 7,3,1
+34,Francisco,08:00 - 09:00,62,Destinos mesa 7,3,2
+34,Francisco,09:00 - 10:00,14,Inducciones mesa 14,2,1
+34,Francisco,10:00 - 11:00,77,Inducciones mesa 6,4,1
+34,Francisco,11:00 - 12:00,93,Precintadora shuttle,4,8
+34,Francisco,12:00 - 13:00,54,Inducciones mesa 9,3,1
+34,Francisco,13:00 - 14:00,50,Inducciones mesa 5,3,1
+36,Chus,06:00 - 07:00,44,Sequence,2,6
+36,Chus,07:00 - 08:00,29,Destinos mesa 9,2,2
+36,Chus,08:00 - 09:00,71,Rampas/cajas vacias,3,7
+36,Chus,09:00 - 10:00,92,Precintadora shipping,4,4
+36,Chus,10:00 - 11:00,69,Rechazo 3/4,3,5
+36,Chus,11:00 - 12:00,84,Destinos mesa 3,4,2
+36,Chus,12:00 - 13:00,68,Precintadora shuttle,3,8
+36,Chus,13:00 - 14:00,1,Inducciones mesa 1,2,1
+37,Concha,06:00 - 07:00,74,Inducciones mesa 3,4,1
+37,Concha,07:00 - 08:00,62,Destinos mesa 7,3,2
+37,Concha,08:00 - 09:00,93,Precintadora shuttle,4,8
+37,Concha,09:00 - 10:00,25,Destinos mesa 5,2,2
+37,Concha,10:00 - 11:00,49,Inducciones mesa 4,3,1
+37,Concha,11:00 - 12:00,74,Inducciones mesa 3,4,1
+37,Concha,12:00 - 13:00,93,Precintadora shuttle,4,8
+37,Concha,13:00 - 14:00,74,Inducciones mesa 3,4,1
+38,Maximiliano,06:00 - 07:00,70,Sequence 3,3,6
+38,Maximiliano,07:00 - 08:00,47,Inducciones mesa 2,3,1
+38,Maximiliano,08:00 - 09:00,45,Rampas/cajas vacias,2,7
+38,Maximiliano,09:00 - 10:00,22,Destinos mesa 2,2,2
+38,Maximiliano,10:00 - 11:00,92,Precintadora shipping,4,4
+38,Maximiliano,11:00 - 12:00,52,Inducciones mesa 7,3,1
+38,Maximiliano,12:00 - 13:00,58,Destinos mesa 3,3,2
+38,Maximiliano,13:00 - 14:00,47,Inducciones mesa 2,3,1
+40,Fausto,06:00 - 07:00,95,Rampas/cajas vacias,4,7
+40,Fausto,07:00 - 08:00,32,Destinos mesa 12,2,2
+40,Fausto,08:00 - 09:00,50,Inducciones mesa 5,3,1
+40,Fausto,09:00 - 10:00,70,Sequence 3,3,6
+40,Fausto,10:00 - 11:00,65,Destinos mesa 10,3,2
+40,Fausto,11:00 - 12:00,55,Inducciones mesa 10,3,1
+40,Fausto,12:00 - 13:00,29,Destinos mesa 9,2,2
+40,Fausto,13:00 - 14:00,26,Destinos mesa 6,2,2
+48,Trinidad,06:00 - 07:00,32,Destinos mesa 12,2,2
+48,Trinidad,07:00 - 08:00,71,Rampas/cajas vacias,3,7
+48,Trinidad,08:00 - 09:00,51,Inducciones mesa 6,3,1
+48,Trinidad,09:00 - 10:00,95,Rampas/cajas vacias,4,7
+48,Trinidad,10:00 - 11:00,23,Destinos mesa 3,2,2
+48,Trinidad,11:00 - 12:00,80,Inducciones mesa 9,4,1
+48,Trinidad,12:00 - 13:00,65,Destinos mesa 10,3,2
+48,Trinidad,13:00 - 14:00,11,Inducciones mesa 11,2,1
+52,Humberto,06:00 - 07:00,63,Destinos mesa 8,3,2
+52,Humberto,07:00 - 08:00,12,Inducciones mesa 12,2,1
+52,Humberto,08:00 - 09:00,87,Destinos mesa 6,4,2
+52,Humberto,09:00 - 10:00,55,Inducciones mesa 10,3,1
+52,Humberto,10:00 - 11:00,94,Sequence 4,4,6
+52,Humberto,11:00 - 12:00,93,Precintadora shuttle,4,8
+52,Humberto,12:00 - 13:00,45,Rampas/cajas vacias,2,7
+52,Humberto,13:00 - 14:00,21,Destinos mesa 1,2,2
+54,Ignacio,06:00 - 07:00,60,Destinos mesa 5,3,2
+54,Ignacio,07:00 - 08:00,41,Chequeo,2,3
+54,Ignacio,08:00 - 09:00,46,Inducciones mesa 1,3,1
+54,Ignacio,09:00 - 10:00,4,Inducciones mesa 4,2,1
+54,Ignacio,10:00 - 11:00,45,Rampas/cajas vacias,2,7
+54,Ignacio,11:00 - 12:00,4,Inducciones mesa 4,2,1
+54,Ignacio,12:00 - 13:00,62,Destinos mesa 7,3,2
+54,Ignacio,13:00 - 14:00,29,Destinos mesa 9,2,2
+60,Juan Bautista,06:00 - 07:00,17,Inducciones mesa 17,2,1
+60,Juan Bautista,07:00 - 08:00,26,Destinos mesa 6,2,2
+60,Juan Bautista,08:00 - 09:00,95,Rampas/cajas vacias,4,7
+60,Juan Bautista,09:00 - 10:00,68,Precintadora shuttle,3,8
+60,Juan Bautista,10:00 - 11:00,57,Destinos mesa 2,3,2
+60,Juan Bautista,11:00 - 12:00,94,Sequence 4,4,6
+60,Juan Bautista,12:00 - 13:00,38,Destinos mesa 18,2,2
+60,Juan Bautista,13:00 - 14:00,25,Destinos mesa 5,2,2
+65,Oriana,06:00 - 07:00,22,Destinos mesa 2,2,2
+65,Oriana,07:00 - 08:00,14,Inducciones mesa 14,2,1
+65,Oriana,08:00 - 09:00,93,Precintadora shuttle,4,8
+65,Oriana,09:00 - 10:00,22,Destinos mesa 2,2,2
+65,Oriana,10:00 - 11:00,41,Chequeo,2,3
+65,Oriana,11:00 - 12:00,71,Rampas/cajas vacias,3,7
+65,Oriana,12:00 - 13:00,19,Inducciones mesa 19,2,1
+65,Oriana,13:00 - 14:00,52,Inducciones mesa 7,3,1
+68,Julio César,06:00 - 07:00,49,Inducciones mesa 4,3,1
+68,Julio César,07:00 - 08:00,94,Sequence 4,4,6
+68,Julio César,08:00 - 09:00,9,Inducciones mesa 9,2,1
+68,Julio César,09:00 - 10:00,26,Destinos mesa 6,2,2
+68,Julio César,10:00 - 11:00,67,Precintadora shipping,3,4
+68,Julio César,11:00 - 12:00,75,Inducciones mesa 4,4,1
+68,Julio César,12:00 - 13:00,42,Precintadora shipping,2,4
+68,Julio César,13:00 - 14:00,76,Inducciones mesa 5,4,1
+69,Edelmiro,06:00 - 07:00,82,Destinos mesa 1,4,2
+69,Edelmiro,07:00 - 08:00,10,Inducciones mesa 10,2,1
+69,Edelmiro,08:00 - 09:00,14,Inducciones mesa 14,2,1
+69,Edelmiro,09:00 - 10:00,71,Rampas/cajas vacias,3,7
+69,Edelmiro,10:00 - 11:00,38,Destinos mesa 18,2,2
+69,Edelmiro,11:00 - 12:00,93,Precintadora shuttle,4,8
+69,Edelmiro,12:00 - 13:00,92,Precintadora shipping,4,4
+69,Edelmiro,13:00 - 14:00,8,Inducciones mesa 8,2,1
+70,Perlita,06:00 - 07:00,74,Inducciones mesa 3,4,1
+70,Perlita,07:00 - 08:00,62,Destinos mesa 7,3,2
+70,Perlita,08:00 - 09:00,76,Inducciones mesa 5,4,1
+70,Perlita,09:00 - 10:00,35,Destinos mesa 15,2,2
+70,Perlita,10:00 - 11:00,17,Inducciones mesa 17,2,1
+70,Perlita,11:00 - 12:00,62,Destinos mesa 7,3,2
+70,Perlita,12:00 - 13:00,74,Inducciones mesa 3,4,1
+70,Perlita,13:00 - 14:00,30,Destinos mesa 10,2,2
+71,Jaime,06:00 - 07:00,79,Inducciones mesa 8,4,1
+71,Jaime,07:00 - 08:00,20,Inducciones mesa 20,2,1
+71,Jaime,08:00 - 09:00,90,Destinos mesa 9,4,2
+71,Jaime,09:00 - 10:00,46,Inducciones mesa 1,3,1
+71,Jaime,10:00 - 11:00,85,Destinos mesa 4,4,2
+71,Jaime,11:00 - 12:00,89,Destinos mesa 8,4,2
+71,Jaime,12:00 - 13:00,44,Sequence,2,6
+71,Jaime,13:00 - 14:00,74,Inducciones mesa 3,4,1
+72,David,06:00 - 07:00,49,Inducciones mesa 4,3,1
+72,David,07:00 - 08:00,56,Destinos mesa 1,3,2
+72,David,08:00 - 09:00,44,Sequence,2,6
+72,David,09:00 - 10:00,48,Inducciones mesa 3,3,1
+72,David,10:00 - 11:00,29,Destinos mesa 9,2,2
+72,David,11:00 - 12:00,52,Inducciones mesa 7,3,1
+72,David,12:00 - 13:00,93,Precintadora shuttle,4,8
+72,David,13:00 - 14:00,23,Destinos mesa 3,2,2
+73,Roberto,06:00 - 07:00,94,Sequence 4,4,6
+73,Roberto,07:00 - 08:00,88,Destinos mesa 7,4,2
+73,Roberto,08:00 - 09:00,67,Precintadora shipping,3,4
+73,Roberto,09:00 - 10:00,41,Chequeo,2,3
+73,Roberto,10:00 - 11:00,43,Rechazo,2,5
+73,Roberto,11:00 - 12:00,42,Precintadora shipping,2,4
+73,Roberto,12:00 - 13:00,48,Inducciones mesa 3,3,1
+73,Roberto,13:00 - 14:00,57,Destinos mesa 2,3,2
+80,Lupe,06:00 - 07:00,10,Inducciones mesa 10,2,1
+80,Lupe,07:00 - 08:00,41,Chequeo,2,3
+80,Lupe,08:00 - 09:00,8,Inducciones mesa 8,2,1
+80,Lupe,09:00 - 10:00,57,Destinos mesa 2,3,2
+80,Lupe,10:00 - 11:00,8,Inducciones mesa 8,2,1
+80,Lupe,11:00 - 12:00,29,Destinos mesa 9,2,2
+80,Lupe,12:00 - 13:00,3,Inducciones mesa 3,2,1
+80,Lupe,13:00 - 14:00,73,Inducciones mesa 2,4,1
+81,Adelina,06:00 - 07:00,72,Inducciones mesa 1,4,1
+81,Adelina,07:00 - 08:00,31,Destinos mesa 11,2,2
+81,Adelina,08:00 - 09:00,8,Inducciones mesa 8,2,1
+81,Adelina,09:00 - 10:00,69,Rechazo 3/4,3,5
+81,Adelina,10:00 - 11:00,45,Rampas/cajas vacias,2,7
+81,Adelina,11:00 - 12:00,40,Destinos mesa 20,2,2
+81,Adelina,12:00 - 13:00,29,Destinos mesa 9,2,2
+81,Adelina,13:00 - 14:00,6,Inducciones mesa 6,2,1
+84,Abraham,06:00 - 07:00,50,Inducciones mesa 5,3,1
+84,Abraham,07:00 - 08:00,37,Destinos mesa 17,2,2
+84,Abraham,08:00 - 09:00,46,Inducciones mesa 1,3,1
+84,Abraham,09:00 - 10:00,44,Sequence,2,6
+84,Abraham,10:00 - 11:00,40,Destinos mesa 20,2,2
+84,Abraham,11:00 - 12:00,74,Inducciones mesa 3,4,1
+84,Abraham,12:00 - 13:00,29,Destinos mesa 9,2,2
+84,Abraham,13:00 - 14:00,92,Precintadora shipping,4,4
+87,Emiliano,06:00 - 07:00,18,Inducciones mesa 18,2,1
+87,Emiliano,07:00 - 08:00,94,Sequence 4,4,6
+87,Emiliano,08:00 - 09:00,19,Inducciones mesa 19,2,1
+87,Emiliano,09:00 - 10:00,95,Rampas/cajas vacias,4,7
+87,Emiliano,10:00 - 11:00,84,Destinos mesa 3,4,2
+87,Emiliano,11:00 - 12:00,52,Inducciones mesa 7,3,1
+87,Emiliano,12:00 - 13:00,30,Destinos mesa 10,2,2
+87,Emiliano,13:00 - 14:00,74,Inducciones mesa 3,4,1
+89,Isabel,06:00 - 07:00,78,Inducciones mesa 7,4,1
+89,Isabel,07:00 - 08:00,12,Inducciones mesa 12,2,1
+89,Isabel,08:00 - 09:00,82,Destinos mesa 1,4,2
+89,Isabel,09:00 - 10:00,94,Sequence 4,4,6
+89,Isabel,10:00 - 11:00,85,Destinos mesa 4,4,2
+89,Isabel,11:00 - 12:00,9,Inducciones mesa 9,2,1
+89,Isabel,12:00 - 13:00,61,Destinos mesa 6,3,2
+89,Isabel,13:00 - 14:00,43,Rechazo,2,5
+95,Mamen,06:00 - 07:00,41,Chequeo,2,3
+95,Mamen,07:00 - 08:00,41,Chequeo,2,3
+95,Mamen,08:00 - 09:00,33,Destinos mesa 13,2,2
+95,Mamen,09:00 - 10:00,2,Inducciones mesa 2,2,1
+95,Mamen,10:00 - 11:00,1,Inducciones mesa 1,2,1
+95,Mamen,11:00 - 12:00,44,Sequence,2,6
+95,Mamen,12:00 - 13:00,13,Inducciones mesa 13,2,1
+95,Mamen,13:00 - 14:00,25,Destinos mesa 5,2,2
+96,Abraham,06:00 - 07:00,57,Destinos mesa 2,3,2
+96,Abraham,07:00 - 08:00,50,Inducciones mesa 5,3,1
+96,Abraham,08:00 - 09:00,27,Destinos mesa 7,2,2
+96,Abraham,09:00 - 10:00,38,Destinos mesa 18,2,2
+96,Abraham,10:00 - 11:00,14,Inducciones mesa 14,2,1
+96,Abraham,11:00 - 12:00,9,Inducciones mesa 9,2,1
+96,Abraham,12:00 - 13:00,31,Destinos mesa 11,2,2
+96,Abraham,13:00 - 14:00,37,Destinos mesa 17,2,2
+99,Leire,06:00 - 07:00,68,Precintadora shuttle,3,8
+99,Leire,07:00 - 08:00,91,Destinos mesa 10,4,2
+99,Leire,08:00 - 09:00,12,Inducciones mesa 12,2,1
+99,Leire,09:00 - 10:00,17,Inducciones mesa 17,2,1
+99,Leire,10:00 - 11:00,37,Destinos mesa 17,2,2
+99,Leire,11:00 - 12:00,39,Destinos mesa 19,2,2
+99,Leire,12:00 - 13:00,75,Inducciones mesa 4,4,1
+99,Leire,13:00 - 14:00,44,Sequence,2,6
+103,Nélida,06:00 - 07:00,92,Precintadora shipping,4,4
+103,Nélida,07:00 - 08:00,21,Destinos mesa 1,2,2
+103,Nélida,08:00 - 09:00,41,Chequeo,2,3
+103,Nélida,09:00 - 10:00,38,Destinos mesa 18,2,2
+103,Nélida,10:00 - 11:00,17,Inducciones mesa 17,2,1
+103,Nélida,11:00 - 12:00,90,Destinos mesa 9,4,2
+103,Nélida,12:00 - 13:00,12,Inducciones mesa 12,2,1
+103,Nélida,13:00 - 14:00,36,Destinos mesa 16,2,2
+111,Emilia,06:00 - 07:00,52,Inducciones mesa 7,3,1
+111,Emilia,07:00 - 08:00,24,Destinos mesa 4,2,2
+111,Emilia,08:00 - 09:00,80,Inducciones mesa 9,4,1
+111,Emilia,09:00 - 10:00,37,Destinos mesa 17,2,2
+111,Emilia,10:00 - 11:00,52,Inducciones mesa 7,3,1
+111,Emilia,11:00 - 12:00,92,Precintadora shipping,4,4
+111,Emilia,12:00 - 13:00,40,Destinos mesa 20,2,2
+111,Emilia,13:00 - 14:00,62,Destinos mesa 7,3,2
+117,Olalla,06:00 - 07:00,15,Inducciones mesa 15,2,1
+117,Olalla,07:00 - 08:00,23,Destinos mesa 3,2,2
+117,Olalla,08:00 - 09:00,85,Destinos mesa 4,4,2
+117,Olalla,09:00 - 10:00,20,Inducciones mesa 20,2,1
+117,Olalla,10:00 - 11:00,31,Destinos mesa 11,2,2
+117,Olalla,11:00 - 12:00,1,Inducciones mesa 1,2,1
+117,Olalla,12:00 - 13:00,58,Destinos mesa 3,3,2
+117,Olalla,13:00 - 14:00,10,Inducciones mesa 10,2,1
+125,Epifanio,06:00 - 07:00,58,Destinos mesa 3,3,2
+125,Epifanio,07:00 - 08:00,27,Destinos mesa 7,2,2
+125,Epifanio,08:00 - 09:00,5,Inducciones mesa 5,2,1
+125,Epifanio,09:00 - 10:00,69,Rechazo 3/4,3,5
+125,Epifanio,10:00 - 11:00,94,Sequence 4,4,6
+125,Epifanio,11:00 - 12:00,84,Destinos mesa 3,4,2
+125,Epifanio,12:00 - 13:00,84,Destinos mesa 3,4,2
+125,Epifanio,13:00 - 14:00,17,Inducciones mesa 17,2,1
+129,Jennifer,06:00 - 07:00,25,Destinos mesa 5,2,2
+129,Jennifer,07:00 - 08:00,45,Rampas/cajas vacias,2,7
+129,Jennifer,08:00 - 09:00,69,Rechazo 3/4,3,5
+129,Jennifer,09:00 - 10:00,56,Destinos mesa 1,3,2
+129,Jennifer,10:00 - 11:00,25,Destinos mesa 5,2,2
+129,Jennifer,11:00 - 12:00,6,Inducciones mesa 6,2,1
+129,Jennifer,12:00 - 13:00,38,Destinos mesa 18,2,2
+129,Jennifer,13:00 - 14:00,48,Inducciones mesa 3,3,1
+130,Azahara,06:00 - 07:00,44,Sequence,2,6
+130,Azahara,07:00 - 08:00,36,Destinos mesa 16,2,2
+130,Azahara,08:00 - 09:00,6,Inducciones mesa 6,2,1
+130,Azahara,09:00 - 10:00,33,Destinos mesa 13,2,2
+130,Azahara,10:00 - 11:00,2,Inducciones mesa 2,2,1
+130,Azahara,11:00 - 12:00,34,Destinos mesa 14,2,2
+130,Azahara,12:00 - 13:00,92,Precintadora shipping,4,4
+130,Azahara,13:00 - 14:00,93,Precintadora shuttle,4,8
+132,Calista,06:00 - 07:00,14,Inducciones mesa 14,2,1
+132,Calista,07:00 - 08:00,92,Precintadora shipping,4,4
+132,Calista,08:00 - 09:00,44,Sequence,2,6
+132,Calista,09:00 - 10:00,18,Inducciones mesa 18,2,1
+132,Calista,10:00 - 11:00,67,Precintadora shipping,3,4
+132,Calista,11:00 - 12:00,69,Rechazo 3/4,3,5
+132,Calista,12:00 - 13:00,34,Destinos mesa 14,2,2
+132,Calista,13:00 - 14:00,72,Inducciones mesa 1,4,1
+134,Loreto,06:00 - 07:00,90,Destinos mesa 9,4,2
+134,Loreto,07:00 - 08:00,13,Inducciones mesa 13,2,1
+134,Loreto,08:00 - 09:00,69,Rechazo 3/4,3,5
+134,Loreto,09:00 - 10:00,6,Inducciones mesa 6,2,1
+134,Loreto,10:00 - 11:00,22,Destinos mesa 2,2,2
+134,Loreto,11:00 - 12:00,67,Precintadora shipping,3,4
+134,Loreto,12:00 - 13:00,89,Destinos mesa 8,4,2
+134,Loreto,13:00 - 14:00,49,Inducciones mesa 4,3,1
+137,Esmeralda,06:00 - 07:00,43,Rechazo,2,5
+137,Esmeralda,07:00 - 08:00,61,Destinos mesa 6,3,2
+137,Esmeralda,08:00 - 09:00,13,Inducciones mesa 13,2,1
+137,Esmeralda,09:00 - 10:00,89,Destinos mesa 8,4,2
+137,Esmeralda,10:00 - 11:00,55,Inducciones mesa 10,3,1
+137,Esmeralda,11:00 - 12:00,81,Inducciones mesa 10,4,1
+137,Esmeralda,12:00 - 13:00,41,Chequeo,2,3
+137,Esmeralda,13:00 - 14:00,35,Destinos mesa 15,2,2
+138,Octavio,06:00 - 07:00,8,Inducciones mesa 8,2,1
+138,Octavio,07:00 - 08:00,20,Inducciones mesa 20,2,1
+138,Octavio,08:00 - 09:00,64,Destinos mesa 9,3,2
+138,Octavio,09:00 - 10:00,45,Rampas/cajas vacias,2,7
+138,Octavio,10:00 - 11:00,82,Destinos mesa 1,4,2
+138,Octavio,11:00 - 12:00,10,Inducciones mesa 10,2,1
+138,Octavio,12:00 - 13:00,71,Rampas/cajas vacias,3,7
+138,Octavio,13:00 - 14:00,26,Destinos mesa 6,2,2
+139,Pancho,06:00 - 07:00,14,Inducciones mesa 14,2,1
+139,Pancho,07:00 - 08:00,86,Destinos mesa 5,4,2
+139,Pancho,08:00 - 09:00,4,Inducciones mesa 4,2,1
+139,Pancho,09:00 - 10:00,51,Inducciones mesa 6,3,1
+139,Pancho,10:00 - 11:00,44,Sequence,2,6
+139,Pancho,11:00 - 12:00,58,Destinos mesa 3,3,2
+139,Pancho,12:00 - 13:00,11,Inducciones mesa 11,2,1
+139,Pancho,13:00 - 14:00,32,Destinos mesa 12,2,2
+143,Marita,06:00 - 07:00,45,Rampas/cajas vacias,2,7
+143,Marita,07:00 - 08:00,44,Sequence,2,6
+143,Marita,08:00 - 09:00,78,Inducciones mesa 7,4,1
+143,Marita,09:00 - 10:00,94,Sequence 4,4,6
+143,Marita,10:00 - 11:00,33,Destinos mesa 13,2,2
+143,Marita,11:00 - 12:00,25,Destinos mesa 5,2,2
+143,Marita,12:00 - 13:00,70,Sequence 3,3,6
+143,Marita,13:00 - 14:00,92,Precintadora shipping,4,4
+144,José Luis,06:00 - 07:00,79,Inducciones mesa 8,4,1
+144,José Luis,07:00 - 08:00,49,Inducciones mesa 4,3,1
+144,José Luis,08:00 - 09:00,56,Destinos mesa 1,3,2
+144,José Luis,09:00 - 10:00,9,Inducciones mesa 9,2,1
+144,José Luis,10:00 - 11:00,4,Inducciones mesa 4,2,1
+144,José Luis,11:00 - 12:00,31,Destinos mesa 11,2,2
+144,José Luis,12:00 - 13:00,77,Inducciones mesa 6,4,1
+144,José Luis,13:00 - 14:00,45,Rampas/cajas vacias,2,7

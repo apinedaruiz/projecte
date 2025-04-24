@@ -1,0 +1,51 @@
+id_treballador,dni,nom,cognom1,cognom2,direccio,sexe,data_naixement,data_antiguitat,telefon,email,seccio,torn
+1,52852467P,Sílvia,Pablo,Vaquero,"Pau Plaza, Malgrat de Mar, Barcelona",Dona,1976-01-02,2002-10-16,(515)253-1938x2535,mollbiel@gmail.com,Confecció,Nit
+2,16025792J,Antònia,Aguilera,Sanmiguel,"Lucia Tunnel, Palafolls, Barcelona",Home,1994-08-13,2019-06-24,(565)733-7191,kandres@gmail.com,Confecció,Tarda
+3,30871996Q,Antonio,Perelló,Arnaiz,"Macías Glens, Malgrat de Mar, Barcelona",Dona,1997-05-30,2020-11-14,001-233-586-0119x5698,kferrandez@yahoo.com,Inaguracions,Matí
+4,62811788F,Chlóe,Pallarès,Lastra,"Castillo Manors, Blanes, Girona",Dona,1967-02-14,2024-06-01,6897410708,vsala@yahoo.com,Cargues,Nit
+5,45416775D,Enzo,Arteaga,Giner,"Valverde Road, Malgrat de Mar, Barcelona",Home,1982-09-10,2023-10-28,207.802.8536x29381,edonaire@yahoo.com,Entrades,Nit
+6,42625114L,Juan,Goñi,Sacristán,"Èric Prairie, Lloret de Mar, Girona",Dona,1979-11-14,2013-03-08,855.890.3914,zsimo@gmail.com,RFID,Matí
+7,77140808G,Noa,Abascal,Herrero,"Benavente Bridge, Vidreres, Girona",Dona,1985-06-21,2013-01-09,(655)309-2505x333,llobetmia@hotmail.com,Entrades,Matí
+8,49681649Q,Cristina,Ripoll,Tenorio,"Marta Islands, Palafolls, Barcelona",Dona,1973-05-25,2012-05-20,001-474-648-0750x489,marc87@gmail.com,Paqueteria,Tarda
+9,90928720Z,Joan,Ferrer,Dueñas,"Xavier Shoals, Lloret de Mar, Girona",Home,1989-08-15,2007-07-12,731-546-2987,albertlujan@gmail.com,Entrades,Tarda
+10,43212986B,Valèria,Amaya,Cisneros,"Badía Village, Blanes, Girona",Dona,1974-10-13,2024-07-25,231.982.3449x35782,brunofiguerola@hotmail.com,Entrades,Matí
+11,74683809A,Martina,Rosales,Sandoval,"Bueno Overpass, Blanes, Girona",Dona,1982-06-09,2003-12-25,(691)721-7712x4352,cuellarnuria@yahoo.com,Paqueteria,Matí
+12,16844382X,Josefa,Armengol,Rosa,"Sara Glens, Tordera, Barcelona",Home,1990-04-05,2002-01-31,+1-878-600-0370x808,vilaltaaleix@hotmail.com,RFID,Nit
+13,65375431R,Èric,Abellán,Osorio,"Jordi Parkway, Tordera, Barcelona",Dona,1985-04-09,2020-03-20,358.237.6414,yanezantonia@yahoo.com,Paqueteria,Tarda
+14,20763747Z,Júlia,Cañas,Alsina,"María Teresa Trail, Malgrat de Mar, Barcelona",Home,1991-01-24,2020-07-09,226.279.8968,valeriafernandez@hotmail.com,RFID,Matí
+15,03068679L,Carmen,Pintor,Río,"María Del Carmen Prairie, Malgrat de Mar, Barcelona",Dona,1989-08-04,2013-09-23,001-362-250-5055,ferrandoona@hotmail.com,Paqueteria,Tarda
+16,73144938Q,María,Villanueva,Patiño,"Jordán Port, Blanes, Girona",Dona,1985-04-25,2006-05-10,857.647.2491x904,rubioadam@gmail.com,Paqueteria,Matí
+17,11381451Q,Francisca,Cárdenas,Carbonell,"Mariscal Locks, Vidreres, Girona",Home,1975-05-31,2007-08-04,500.633.6351x1898,nestrada@gmail.com,Entrades,Nit
+18,87563755H,Martí,Diaz,Feijoo,"Abella Row, Blanes, Girona",Home,1992-06-13,2023-08-28,+1-414-986-1326x74220,joverjoan@hotmail.com,Entrades,Nit
+19,88049667D,Josefa,Casals,Villena,"Ona Garden, Vidreres, Girona",Home,1998-07-16,2014-11-21,+1-838-261-3132x895,bbeltran@gmail.com,Inaguracions,Matí
+20,40861570T,Cristina,Riquelme,Águila,"Pol Path, Vidreres, Girona",Dona,1999-04-09,2023-02-03,669-491-4353,miguel81@hotmail.com,Entrades,Matí
+21,54804312G,Jordi,Cifuentes,Royo,"Mia Via, Tordera, Barcelona",Home,1976-03-31,2004-11-25,894.740.3281x85687,maria-teresa02@gmail.com,Paqueteria,Nit
+22,00722128C,Sara,Acuña,Zabala,"Francisca Terrace, Tordera, Barcelona",Home,1986-10-14,2012-06-15,968-287-2983,agracia@hotmail.com,Entrades,Matí
+23,10778439H,Leo,Torrent,Valverde,"José Village, Blanes, Girona",Home,1999-12-22,2025-02-16,(762)353-8558x639,sofia66@yahoo.com,Entrades,Nit
+24,26000137V,Francisco,Díez,Aragón,"José Flat, Blanes, Girona",Home,1970-07-21,2020-10-10,001-821-447-7469x45439,pazosbiel@hotmail.com,Paqueteria,Matí
+25,63355813J,Laura,Frutos,Olivares,"Echevarría Stravenue, Vidreres, Girona",Dona,1985-07-19,2008-11-06,643.907.7865,machadonoa@yahoo.com,Paqueteria,Tarda
+26,89321487K,Anna,Mir,Ferrera,"Laia Trail, Blanes, Girona",Home,1963-11-13,2007-03-16,(336)226-5221x824,hugobernal@hotmail.com,RFID,Nit
+27,00089108Y,Carmen,Taboada,Jerez,"Antònia Forest, Vidreres, Girona",Home,1993-05-21,2003-09-15,+1-875-987-2074x3808,wantunez@hotmail.com,Cargues,Nit
+28,89710612D,Rosa,Gonzalez,Fonseca,"Núria Street, Malgrat de Mar, Barcelona",Dona,1985-04-06,2015-07-20,001-200-508-1972x08289,pauferrer@gmail.com,Cargues,Tarda
+29,71099840D,Pedro,Pera,Valera,"Villa Keys, Vidreres, Girona",Dona,2004-04-05,2000-04-07,558-868-8798,pol69@hotmail.com,Cargues,Nit
+30,98246914E,Enzo,Quevedo,Fábregas,"Rueda Pass, Blanes, Girona",Dona,1992-02-05,2017-10-11,8529602647,lucia49@gmail.com,RFID,Nit
+31,07668759F,Rosa,Gargallo,Bonilla,"Gámez Burg, Lloret de Mar, Girona",Home,1964-08-17,2000-08-15,733-395-9644,maria-teresa37@hotmail.com,Entrades,Tarda
+32,96230048A,José María,Bilbao,Capdevila,"Alfaro Trail, Palafolls, Barcelona",Home,1969-12-06,2001-02-27,247-500-8292x090,haznar@gmail.com,Inaguracions,Matí
+33,11426943Z,Joan,Haro,Franco,"Lago Shoal, Tordera, Barcelona",Home,1993-05-09,2011-12-01,716-227-3239x5384,igil@gmail.com,Cargues,Tarda
+34,27119170P,Max,Gimenez,Ramírez,"Leo Parks, Malgrat de Mar, Barcelona",Dona,2001-01-20,2010-05-16,3712065895,marc15@yahoo.com,Entrades,Matí
+35,17272320X,Miguel,Reig,Redondo,"Antònia Estates, Vidreres, Girona",Dona,1983-10-10,2003-01-03,+1-472-503-7136x05484,laurajaume@yahoo.com,Paqueteria,Nit
+36,43531502T,Emma,Blasco,Ortega,"Ramón Crossing, Vidreres, Girona",Dona,1996-06-10,2006-09-14,+1-988-930-2909x4840,roliva@yahoo.com,Cargues,Matí
+37,86002581S,Noa,Lara,Sosa,"Grande Lodge, Palafolls, Barcelona",Dona,1970-02-11,2013-01-11,(321)679-6754x6064,quintanillamaria-teresa@hotmail.com,Confecció,Tarda
+38,67630192A,Josefa,Peiró,Gallo,"Sofía Estate, Vidreres, Girona",Home,1980-04-10,2012-08-16,(543)949-3951,rpaz@hotmail.com,Inaguracions,Nit
+39,30978174A,Júlia,Ballesteros,Dueñas,"María Mill, Blanes, Girona",Dona,1962-09-03,2010-05-04,986-366-3116,boschmartina@hotmail.com,Cargues,Matí
+40,35899938C,José,Gonzalez,Lumbreras,"Larrañaga Drive, Palafolls, Barcelona",Dona,1996-06-02,2005-03-03,353-799-0217,vivesjordi@yahoo.com,RFID,Tarda
+41,74608009B,Antonio,Olmedo,Folch,"Tirado Turnpike, Blanes, Girona",Dona,1966-10-01,2001-02-22,+1-800-968-8507,abrilrios@yahoo.com,RFID,Nit
+42,15783964F,Dolores,Roca,Valbuena,"Carvajal Orchard, Malgrat de Mar, Barcelona",Dona,1970-10-26,2011-10-12,+1-632-633-2614x4267,onaviana@hotmail.com,RFID,Tarda
+43,95858804W,Rosa,Jara,Mata,"Clàudia Avenue, Malgrat de Mar, Barcelona",Home,1966-01-15,2006-08-18,675.221.5262,antoniaalberola@hotmail.com,Entrades,Matí
+44,58154583A,Enzo,Ordóñez,Córdoba,"Jana Divide, Tordera, Barcelona",Home,1997-06-25,2002-10-09,+1-509-804-7116x041,laia45@gmail.com,Inaguracions,Matí
+45,35332347T,Laura,Portillo,Amo,"Heras Junctions, Palafolls, Barcelona",Home,1995-06-10,2005-04-30,3366298024,arnau36@gmail.com,Cargues,Nit
+46,96336776B,Jordi,Gelabert,Márquez,"Solsona Falls, Malgrat de Mar, Barcelona",Dona,1994-02-15,2021-09-10,+1-724-607-7847x95280,aleixsotelo@gmail.com,Entrades,Matí
+47,19533826H,Daniel,Bello,Pellicer,"Garay Village, Palafolls, Barcelona",Dona,2001-02-13,2011-12-04,6726897184,franciscoantunez@yahoo.com,Paqueteria,Nit
+48,93621590K,Juan,Pizarro,Arellano,"Manuel Greens, Malgrat de Mar, Barcelona",Home,1964-04-26,2017-08-18,(264)312-8238,wlosa@hotmail.com,Inaguracions,Nit
+49,87627147E,Júlia,Vizcaíno,Frías,"Llorente Island, Palafolls, Barcelona",Dona,1975-12-22,2007-07-30,946-361-1539,claudia68@yahoo.com,Paqueteria,Tarda
+50,01799497T,Javier,Jordá,Carranza,"Bernad Burg, Lloret de Mar, Girona",Home,2000-03-10,2017-07-11,715.645.7638x5191,francisca46@yahoo.com,Entrades,Tarda

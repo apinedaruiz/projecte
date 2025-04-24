@@ -1,0 +1,96 @@
+id_posicio,posicio,clasificador,id_limitacio,familia
+1,Inducciones mesa 1,2,3,1
+2,Inducciones mesa 2,2,3,1
+3,Inducciones mesa 3,2,3,1
+4,Inducciones mesa 4,2,3,1
+5,Inducciones mesa 5,2,3,1
+6,Inducciones mesa 6,2,3,1
+7,Inducciones mesa 7,2,3,1
+8,Inducciones mesa 8,2,3,1
+9,Inducciones mesa 9,2,3,1
+10,Inducciones mesa 10,2,3,1
+11,Inducciones mesa 11,2,3,1
+12,Inducciones mesa 12,2,3,1
+13,Inducciones mesa 13,2,3,1
+14,Inducciones mesa 14,2,3,1
+15,Inducciones mesa 15,2,3,1
+16,Inducciones mesa 16,2,3,1
+17,Inducciones mesa 17,2,3,1
+18,Inducciones mesa 18,2,3,1
+19,Inducciones mesa 19,2,3,1
+20,Inducciones mesa 20,2,3,1
+21,Destinos mesa 1,2,1,2
+22,Destinos mesa 2,2,1,2
+23,Destinos mesa 3,2,1,2
+24,Destinos mesa 4,2,1,2
+25,Destinos mesa 5,2,1,2
+26,Destinos mesa 6,2,1,2
+27,Destinos mesa 7,2,1,2
+28,Destinos mesa 8,2,1,2
+29,Destinos mesa 9,2,1,2
+30,Destinos mesa 10,2,1,2
+31,Destinos mesa 11,2,1,2
+32,Destinos mesa 12,2,1,2
+33,Destinos mesa 13,2,1,2
+34,Destinos mesa 14,2,1,2
+35,Destinos mesa 15,2,1,2
+36,Destinos mesa 16,2,1,2
+37,Destinos mesa 17,2,1,2
+38,Destinos mesa 18,2,1,2
+39,Destinos mesa 19,2,1,2
+40,Destinos mesa 20,2,1,2
+41,Chequeo,2,0,3
+42,Precintadora shipping,2,0,4
+43,Rechazo,2,5,5
+44,Sequence,2,0,6
+45,Rampas/cajas vacias,2,9,7
+46,Inducciones mesa 1,3,4,1
+47,Inducciones mesa 2,3,4,1
+48,Inducciones mesa 3,3,4,1
+49,Inducciones mesa 4,3,4,1
+50,Inducciones mesa 5,3,4,1
+51,Inducciones mesa 6,3,4,1
+52,Inducciones mesa 7,3,4,1
+53,Inducciones mesa 8,3,4,1
+54,Inducciones mesa 9,3,4,1
+55,Inducciones mesa 10,3,4,1
+56,Destinos mesa 1,3,2,2
+57,Destinos mesa 2,3,2,2
+58,Destinos mesa 3,3,2,2
+59,Destinos mesa 4,3,2,2
+60,Destinos mesa 5,3,2,2
+61,Destinos mesa 6,3,2,2
+62,Destinos mesa 7,3,2,2
+63,Destinos mesa 8,3,2,2
+64,Destinos mesa 9,3,2,2
+65,Destinos mesa 10,3,2,2
+67,Precintadora shipping,3,0,4
+68,Precintadora shuttle,3,0,8
+69,Rechazo 3/4,3,6,5
+70,Sequence 3,3,0,6
+71,Rampas/cajas vacias,3,9,7 
+72,Inducciones mesa 1,4,4,1
+73,Inducciones mesa 2,4,4,1
+74,Inducciones mesa 3,4,4,1
+75,Inducciones mesa 4,4,4,1
+76,Inducciones mesa 5,4,4,1
+77,Inducciones mesa 6,4,4,1
+78,Inducciones mesa 7,4,4,1
+79,Inducciones mesa 8,4,4,1
+80,Inducciones mesa 9,4,4,1
+81,Inducciones mesa 10,4,4,1
+82,Destinos mesa 1,4,2,2
+83,Destinos mesa 2,4,2,2
+84,Destinos mesa 3,4,2,2
+85,Destinos mesa 4,4,2,2
+86,Destinos mesa 5,4,2,2
+87,Destinos mesa 6,4,2,2
+88,Destinos mesa 7,4,2,2
+89,Destinos mesa 8,4,2,2
+90,Destinos mesa 9,4,2,2
+91,Destinos mesa 10,4,2,2
+92,Precintadora shipping,4,0,4
+93,Precintadora shuttle,4,0,8
+94,Sequence 4,4,0,6
+95,Rampas/cajas vacias,4,9,7
+96,Fallos,0,7,9

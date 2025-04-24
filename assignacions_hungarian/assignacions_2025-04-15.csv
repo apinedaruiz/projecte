@@ -1,0 +1,65 @@
+﻿data,hora,id_treballador,nom,id_posicio,posicio,clasificador,familia
+2025-04-15,06:00 - 07:00,1,Albina,38,Destinos mesa 18,2,2
+2025-04-15,07:00 - 08:00,1,Albina,44,Sequence,2,6
+2025-04-15,08:00 - 09:00,1,Albina,41,Chequeo,2,3
+2025-04-15,09:00 - 10:00,1,Albina,45,Rampas/cajas vacias,2,7
+2025-04-15,10:00 - 11:00,1,Albina,42,Precintadora shipping,2,4
+2025-04-15,06:00 - 07:00,3,Ángela,9,Inducciones mesa 9,2,1
+2025-04-15,07:00 - 08:00,3,Ángela,26,Destinos mesa 6,2,2
+2025-04-15,08:00 - 09:00,3,Ángela,43,Rechazo,2,5
+2025-04-15,09:00 - 10:00,3,Ángela,41,Chequeo,2,3
+2025-04-15,10:00 - 11:00,3,Ángela,44,Sequence,2,6
+2025-04-15,12:00 - 13:00,3,Ángela,42,Precintadora shipping,2,4
+2025-04-15,06:00 - 07:00,4,Ariel,41,Chequeo,2,3
+2025-04-15,07:00 - 08:00,4,Ariel,45,Rampas/cajas vacias,2,7
+2025-04-15,10:00 - 11:00,4,Ariel,43,Rechazo,2,5
+2025-04-15,11:00 - 12:00,4,Ariel,44,Sequence,2,6
+2025-04-15,12:00 - 13:00,4,Ariel,31,Destinos mesa 11,2,2
+2025-04-15,06:00 - 07:00,8,Pelayo,92,Precintadora shipping,4,4
+2025-04-15,07:00 - 08:00,8,Pelayo,93,Precintadora shuttle,4,8
+2025-04-15,08:00 - 09:00,8,Pelayo,94,Sequence 4,4,6
+2025-04-15,09:00 - 10:00,8,Pelayo,87,Destinos mesa 6,4,2
+2025-04-15,11:00 - 12:00,8,Pelayo,95,Rampas/cajas vacias,4,7
+2025-04-15,13:00 - 14:00,8,Pelayo,79,Inducciones mesa 8,4,1
+2025-04-15,06:00 - 07:00,9,Juan,70,Sequence 3,3,6
+2025-04-15,07:00 - 08:00,9,Juan,67,Precintadora shipping,3,4
+2025-04-15,08:00 - 09:00,9,Juan,63,Destinos mesa 8,3,2
+2025-04-15,09:00 - 10:00,9,Juan,68,Precintadora shuttle,3,8
+2025-04-15,10:00 - 11:00,9,Juan,46,Inducciones mesa 1,3,1
+2025-04-15,11:00 - 12:00,9,Juan,69,Rechazo 3/4,3,5
+2025-04-15,06:00 - 07:00,10,Cristina,45,Rampas/cajas vacias,2,7
+2025-04-15,07:00 - 08:00,10,Cristina,41,Chequeo,2,3
+2025-04-15,11:00 - 12:00,10,Cristina,36,Destinos mesa 16,2,2
+2025-04-15,12:00 - 13:00,10,Cristina,44,Sequence,2,6
+2025-04-15,06:00 - 07:00,11,Francisco Javier,68,Precintadora shuttle,3,8
+2025-04-15,07:00 - 08:00,11,Francisco Javier,69,Rechazo 3/4,3,5
+2025-04-15,08:00 - 09:00,11,Francisco Javier,53,Inducciones mesa 8,3,1
+2025-04-15,09:00 - 10:00,11,Francisco Javier,70,Sequence 3,3,6
+2025-04-15,10:00 - 11:00,11,Francisco Javier,71,Rampas/cajas vacias,3,7
+2025-04-15,11:00 - 12:00,11,Francisco Javier,67,Precintadora shipping,3,4
+2025-04-15,06:00 - 07:00,13,Ana,69,Rechazo 3/4,3,5
+2025-04-15,09:00 - 10:00,13,Ana,49,Inducciones mesa 4,3,1
+2025-04-15,10:00 - 11:00,13,Ana,68,Precintadora shuttle,3,8
+2025-04-15,07:00 - 08:00,24,Juan Luis,11,Inducciones mesa 11,2,1
+2025-04-15,10:00 - 11:00,24,Juan Luis,41,Chequeo,2,3
+2025-04-15,13:00 - 14:00,24,Juan Luis,39,Destinos mesa 19,2,2
+2025-04-15,08:00 - 09:00,25,Aurelio,93,Precintadora shuttle,4,8
+2025-04-15,10:00 - 11:00,25,Aurelio,84,Destinos mesa 3,4,2
+2025-04-15,12:00 - 13:00,25,Aurelio,95,Rampas/cajas vacias,4,7
+2025-04-15,13:00 - 14:00,25,Aurelio,94,Sequence 4,4,6
+2025-04-15,08:00 - 09:00,28,Antonia,95,Rampas/cajas vacias,4,7
+2025-04-15,11:00 - 12:00,28,Antonia,93,Precintadora shuttle,4,8
+2025-04-15,13:00 - 14:00,28,Antonia,92,Precintadora shipping,4,4
+2025-04-15,08:00 - 09:00,29,Andrea,92,Precintadora shipping,4,4
+2025-04-15,13:00 - 14:00,29,Andrea,95,Rampas/cajas vacias,4,7
+2025-04-15,09:00 - 10:00,32,Miriam,69,Rechazo 3/4,3,5
+2025-04-15,12:00 - 13:00,32,Miriam,68,Precintadora shuttle,3,8
+2025-04-15,09:00 - 10:00,33,Iker,67,Precintadora shipping,3,4
+2025-04-15,12:00 - 13:00,33,Iker,69,Rechazo 3/4,3,5
+2025-04-15,11:00 - 12:00,34,Francisco,41,Chequeo,2,3
+2025-04-15,12:00 - 13:00,34,Francisco,18,Inducciones mesa 18,2,1
+2025-04-15,11:00 - 12:00,36,Chus,7,Inducciones mesa 7,2,1
+2025-04-15,12:00 - 13:00,36,Chus,41,Chequeo,2,3
+2025-04-15,13:00 - 14:00,37,Concha,69,Rechazo 3/4,3,5
+2025-04-15,13:00 - 14:00,38,Maximiliano,41,Chequeo,2,3
+2025-04-15,13:00 - 14:00,40,Fausto,93,Precintadora shuttle,4,8
