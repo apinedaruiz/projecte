@@ -4,6 +4,7 @@ import os
 from sqlalchemy import create_engine
 from ortools.sat.python import cp_model
 
+
 # Connexió SQL Server
 username = 'apineda'
 password = 'apineda'
@@ -24,17 +25,23 @@ treballadors = pd.read_sql("SELECT * FROM treballadors WHERE torn = 'matí'", en
 limitacions_df = pd.read_sql("SELECT * FROM treballador_limitacio", engine)
 df_calendari = pd.read_sql("SELECT * FROM calendari_laboral WHERE es_laborable = 1", engine)
 
-# Preparació de dades
-df_calendari['data'] = pd.to_datetime(df_calendari.rename(columns={'aany': 'year', 'numero_mes': 'month', 'numero_dia': 'day'})[['year', 'month', 'day']])
+# Obtenir els pròxims 7 dies laborables
 avui = pd.Timestamp.today().normalize()
-dies_laborables = df_calendari[df_calendari['data'] >= avui].head(1)['data'].dt.strftime('%Y-%m-%d').tolist()
+
+# Renombrar columnes perquè to_datetime les entengui
+df_calendari_rename = df_calendari.rename(columns={'aany': 'year', 'numero_mes': 'month', 'numero_dia': 'day'})
+df_calendari['data'] = pd.to_datetime(df_calendari_rename[['year', 'month', 'day']])
+taula_laborables = df_calendari[df_calendari['data'] >= avui].sort_values('data').head(7)
+dies_laborables = taula_laborables['data'].dt.strftime('%Y-%m-%d').tolist()
+
+
 
 limitacions_dict = limitacions_df.groupby('id_treballador')['id_limitacio'].apply(set).to_dict()
 output_folder = "assignacions_cpsat"
 os.makedirs(output_folder, exist_ok=True)
 
 # OR-Tools per dia
-def assignar_per_dia(data):
+def generar_assignacions_dia(data):
     model = cp_model.CpModel()
     n_treballadors = len(treballadors)
     n_hores = 8
@@ -107,9 +114,13 @@ def assignar_per_dia(data):
         return pd.DataFrame()
 
 # Executar per cada dia
+
 for data in dies_laborables:
-    df = assignar_per_dia(data)
-    if not df.empty:
-        output_path = os.path.join(output_folder, f"assignacions_{data}.csv")
-        df.to_csv(output_path, index=False, encoding='utf-8-sig')
-        print(f"✅ Assignacions OR-Tools per {data} guardades a {output_path}")
+    assignacions_dia = generar_assignacions_dia(data)
+    df_dia = pd.DataFrame(assignacions_dia)
+    df_dia = df_dia.sort_values(by=['id_treballador', 'hora'])  # 🔄 Ordenació
+
+    output_path = os.path.join(output_folder, f"assignacions_{data}.csv")
+    df_dia.to_csv(output_path, index=False, encoding='utf-8-sig')
+
+    print(f"✔️ Assignacions generades per {data}: {output_path}")
