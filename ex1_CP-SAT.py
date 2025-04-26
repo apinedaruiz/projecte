@@ -27,14 +27,11 @@ df_calendari = pd.read_sql("SELECT * FROM calendari_laboral WHERE es_laborable =
 
 # Obtenir els pròxims 7 dies laborables
 avui = pd.Timestamp.today().normalize()
-
 # Renombrar columnes perquè to_datetime les entengui
 df_calendari_rename = df_calendari.rename(columns={'aany': 'year', 'numero_mes': 'month', 'numero_dia': 'day'})
 df_calendari['data'] = pd.to_datetime(df_calendari_rename[['year', 'month', 'day']])
 taula_laborables = df_calendari[df_calendari['data'] >= avui].sort_values('data').head(7)
 dies_laborables = taula_laborables['data'].dt.strftime('%Y-%m-%d').tolist()
-
-
 
 limitacions_dict = limitacions_df.groupby('id_treballador')['id_limitacio'].apply(set).to_dict()
 output_folder = "assignacions_cpsat"
