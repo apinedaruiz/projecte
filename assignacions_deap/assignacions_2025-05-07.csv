@@ -1,0 +1,409 @@
+﻿data,hora,id_treballador,nom,posicio,clasificador,familia
+2025-05-07,6:00,1,Albina,Chequeo,2,3
+2025-05-07,7:00,1,Albina,Destinos mesa 19,2,2
+2025-05-07,8:00,1,Albina,Sequence,2,6
+2025-05-07,9:00,1,Albina,Destinos mesa 12,2,2
+2025-05-07,10:00,1,Albina,Chequeo,2,3
+2025-05-07,11:00,1,Albina,Destinos mesa 16,2,2
+2025-05-07,12:00,1,Albina,Chequeo,2,3
+2025-05-07,13:00,1,Albina,Sequence,2,6
+2025-05-07,6:00,3,Ángela,Destinos mesa 7,3,2
+2025-05-07,7:00,3,Ángela,Inducciones mesa 4,3,1
+2025-05-07,8:00,3,Ángela,Precintadora shipping,3,4
+2025-05-07,9:00,3,Ángela,Inducciones mesa 10,3,1
+2025-05-07,10:00,3,Ángela,Destinos mesa 1,3,2
+2025-05-07,11:00,3,Ángela,Inducciones mesa 5,3,1
+2025-05-07,12:00,3,Ángela,Destinos mesa 7,3,2
+2025-05-07,13:00,3,Ángela,Precintadora shuttle,3,8
+2025-05-07,6:00,4,Ariel,Inducciones mesa 9,4,1
+2025-05-07,7:00,4,Ariel,Destinos mesa 7,4,2
+2025-05-07,8:00,4,Ariel,Inducciones mesa 8,4,1
+2025-05-07,9:00,4,Ariel,Destinos mesa 1,4,2
+2025-05-07,10:00,4,Ariel,Sequence 4,4,6
+2025-05-07,11:00,4,Ariel,Destinos mesa 9,4,2
+2025-05-07,12:00,4,Ariel,Rampas/cajas vacias,4,7
+2025-05-07,13:00,4,Ariel,Inducciones mesa 10,4,1
+2025-05-07,6:00,8,Pelayo,Destinos mesa 3,4,2
+2025-05-07,7:00,8,Pelayo,Sequence 4,4,6
+2025-05-07,8:00,8,Pelayo,Precintadora shuttle,4,8
+2025-05-07,9:00,8,Pelayo,Inducciones mesa 8,4,1
+2025-05-07,10:00,8,Pelayo,Destinos mesa 10,4,2
+2025-05-07,11:00,8,Pelayo,Inducciones mesa 2,4,1
+2025-05-07,12:00,8,Pelayo,Destinos mesa 8,4,2
+2025-05-07,13:00,8,Pelayo,Inducciones mesa 8,4,1
+2025-05-07,6:00,9,Juan,Inducciones mesa 9,2,1
+2025-05-07,7:00,9,Juan,Destinos mesa 5,2,2
+2025-05-07,8:00,9,Juan,Inducciones mesa 10,2,1
+2025-05-07,9:00,9,Juan,Destinos mesa 20,2,2
+2025-05-07,10:00,9,Juan,Inducciones mesa 4,2,1
+2025-05-07,11:00,9,Juan,Destinos mesa 5,2,2
+2025-05-07,12:00,9,Juan,Chequeo,2,3
+2025-05-07,13:00,9,Juan,Destinos mesa 3,2,2
+2025-05-07,6:00,10,Cristina,Inducciones mesa 7,4,1
+2025-05-07,7:00,10,Cristina,Sequence 4,4,6
+2025-05-07,8:00,10,Cristina,Inducciones mesa 8,4,1
+2025-05-07,9:00,10,Cristina,Rampas/cajas vacias,4,7
+2025-05-07,10:00,10,Cristina,Inducciones mesa 3,4,1
+2025-05-07,11:00,10,Cristina,Sequence 4,4,6
+2025-05-07,12:00,10,Cristina,Inducciones mesa 10,4,1
+2025-05-07,13:00,10,Cristina,Rampas/cajas vacias,4,7
+2025-05-07,6:00,11,Francisco Javier,Destinos mesa 17,2,2
+2025-05-07,7:00,11,Francisco Javier,Rampas/cajas vacias,2,7
+2025-05-07,8:00,11,Francisco Javier,Destinos mesa 16,2,2
+2025-05-07,9:00,11,Francisco Javier,Rampas/cajas vacias,2,7
+2025-05-07,10:00,11,Francisco Javier,Destinos mesa 10,2,2
+2025-05-07,11:00,11,Francisco Javier,Precintadora shipping,2,4
+2025-05-07,12:00,11,Francisco Javier,Rechazo,2,5
+2025-05-07,13:00,11,Francisco Javier,Destinos mesa 19,2,2
+2025-05-07,6:00,13,Ana,Inducciones mesa 6,4,1
+2025-05-07,7:00,13,Ana,Destinos mesa 6,4,2
+2025-05-07,8:00,13,Ana,Inducciones mesa 4,4,1
+2025-05-07,9:00,13,Ana,Destinos mesa 3,4,2
+2025-05-07,10:00,13,Ana,Inducciones mesa 10,4,1
+2025-05-07,11:00,13,Ana,Destinos mesa 2,4,2
+2025-05-07,12:00,13,Ana,Inducciones mesa 2,4,1
+2025-05-07,13:00,13,Ana,Precintadora shipping,4,4
+2025-05-07,6:00,24,Juan Luis,Rampas/cajas vacias,3,7
+2025-05-07,7:00,24,Juan Luis,Destinos mesa 8,3,2
+2025-05-07,8:00,24,Juan Luis,Rechazo 3/4,3,5
+2025-05-07,9:00,24,Juan Luis,Destinos mesa 4,3,2
+2025-05-07,10:00,24,Juan Luis,Precintadora shuttle,3,8
+2025-05-07,11:00,24,Juan Luis,Destinos mesa 5,3,2
+2025-05-07,12:00,24,Juan Luis,Precintadora shipping,3,4
+2025-05-07,13:00,24,Juan Luis,Destinos mesa 4,3,2
+2025-05-07,6:00,25,Aurelio,Inducciones mesa 7,2,1
+2025-05-07,7:00,25,Aurelio,Destinos mesa 1,2,2
+2025-05-07,8:00,25,Aurelio,Inducciones mesa 15,2,1
+2025-05-07,9:00,25,Aurelio,Destinos mesa 20,2,2
+2025-05-07,10:00,25,Aurelio,Inducciones mesa 14,2,1
+2025-05-07,11:00,25,Aurelio,Destinos mesa 2,2,2
+2025-05-07,12:00,25,Aurelio,Sequence,2,6
+2025-05-07,13:00,25,Aurelio,Destinos mesa 6,2,2
+2025-05-07,6:00,28,Antonia,Destinos mesa 18,2,2
+2025-05-07,7:00,28,Antonia,Chequeo,2,3
+2025-05-07,8:00,28,Antonia,Inducciones mesa 6,2,1
+2025-05-07,9:00,28,Antonia,Chequeo,2,3
+2025-05-07,10:00,28,Antonia,Destinos mesa 3,2,2
+2025-05-07,11:00,28,Antonia,Inducciones mesa 7,2,1
+2025-05-07,12:00,28,Antonia,Destinos mesa 19,2,2
+2025-05-07,13:00,28,Antonia,Inducciones mesa 12,2,1
+2025-05-07,6:00,29,Andrea,Destinos mesa 5,2,2
+2025-05-07,7:00,29,Andrea,Inducciones mesa 19,2,1
+2025-05-07,8:00,29,Andrea,Destinos mesa 10,2,2
+2025-05-07,9:00,29,Andrea,Inducciones mesa 5,2,1
+2025-05-07,10:00,29,Andrea,Sequence,2,6
+2025-05-07,11:00,29,Andrea,Inducciones mesa 7,2,1
+2025-05-07,12:00,29,Andrea,Precintadora shipping,2,4
+2025-05-07,13:00,29,Andrea,Inducciones mesa 16,2,1
+2025-05-07,6:00,32,Miriam,Inducciones mesa 20,2,1
+2025-05-07,7:00,32,Miriam,Rampas/cajas vacias,2,7
+2025-05-07,8:00,32,Miriam,Destinos mesa 4,2,2
+2025-05-07,9:00,32,Miriam,Inducciones mesa 15,2,1
+2025-05-07,10:00,32,Miriam,Destinos mesa 20,2,2
+2025-05-07,11:00,32,Miriam,Inducciones mesa 8,2,1
+2025-05-07,12:00,32,Miriam,Destinos mesa 6,2,2
+2025-05-07,13:00,32,Miriam,Inducciones mesa 3,2,1
+2025-05-07,6:00,33,Iker,Destinos mesa 20,2,2
+2025-05-07,7:00,33,Iker,Inducciones mesa 9,2,1
+2025-05-07,8:00,33,Iker,Destinos mesa 17,2,2
+2025-05-07,9:00,33,Iker,Inducciones mesa 12,2,1
+2025-05-07,10:00,33,Iker,Destinos mesa 4,2,2
+2025-05-07,11:00,33,Iker,Inducciones mesa 17,2,1
+2025-05-07,12:00,33,Iker,Destinos mesa 2,2,2
+2025-05-07,13:00,33,Iker,Inducciones mesa 16,2,1
+2025-05-07,6:00,34,Francisco,Precintadora shipping,2,4
+2025-05-07,7:00,34,Francisco,Inducciones mesa 13,2,1
+2025-05-07,8:00,34,Francisco,Destinos mesa 17,2,2
+2025-05-07,9:00,34,Francisco,Inducciones mesa 13,2,1
+2025-05-07,10:00,34,Francisco,Chequeo,2,3
+2025-05-07,11:00,34,Francisco,Sequence,2,6
+2025-05-07,12:00,34,Francisco,Destinos mesa 5,2,2
+2025-05-07,13:00,34,Francisco,Inducciones mesa 6,2,1
+2025-05-07,6:00,36,Chus,Inducciones mesa 12,2,1
+2025-05-07,7:00,36,Chus,Destinos mesa 3,2,2
+2025-05-07,8:00,36,Chus,Sequence,2,6
+2025-05-07,9:00,36,Chus,Inducciones mesa 5,2,1
+2025-05-07,10:00,36,Chus,Sequence,2,6
+2025-05-07,11:00,36,Chus,Destinos mesa 20,2,2
+2025-05-07,12:00,36,Chus,Inducciones mesa 7,2,1
+2025-05-07,13:00,36,Chus,Destinos mesa 13,2,2
+2025-05-07,6:00,37,Concha,Destinos mesa 9,2,2
+2025-05-07,7:00,37,Concha,Rechazo,2,5
+2025-05-07,8:00,37,Concha,Destinos mesa 15,2,2
+2025-05-07,9:00,37,Concha,Sequence,2,6
+2025-05-07,10:00,37,Concha,Destinos mesa 7,2,2
+2025-05-07,11:00,37,Concha,Sequence,2,6
+2025-05-07,12:00,37,Concha,Destinos mesa 1,2,2
+2025-05-07,13:00,37,Concha,Rechazo,2,5
+2025-05-07,6:00,38,Maximiliano,Inducciones mesa 15,2,1
+2025-05-07,7:00,38,Maximiliano,Rechazo,2,5
+2025-05-07,8:00,38,Maximiliano,Destinos mesa 10,2,2
+2025-05-07,9:00,38,Maximiliano,Inducciones mesa 15,2,1
+2025-05-07,10:00,38,Maximiliano,Destinos mesa 3,2,2
+2025-05-07,11:00,38,Maximiliano,Inducciones mesa 3,2,1
+2025-05-07,12:00,38,Maximiliano,Destinos mesa 3,2,2
+2025-05-07,13:00,38,Maximiliano,Inducciones mesa 15,2,1
+2025-05-07,6:00,40,Fausto,Destinos mesa 9,4,2
+2025-05-07,7:00,40,Fausto,Inducciones mesa 3,4,1
+2025-05-07,8:00,40,Fausto,Precintadora shuttle,4,8
+2025-05-07,9:00,40,Fausto,Inducciones mesa 3,4,1
+2025-05-07,10:00,40,Fausto,Destinos mesa 5,4,2
+2025-05-07,11:00,40,Fausto,Inducciones mesa 2,4,1
+2025-05-07,12:00,40,Fausto,Destinos mesa 8,4,2
+2025-05-07,13:00,40,Fausto,Inducciones mesa 2,4,1
+2025-05-07,6:00,48,Trinidad,Inducciones mesa 2,3,1
+2025-05-07,7:00,48,Trinidad,Precintadora shipping,3,4
+2025-05-07,8:00,48,Trinidad,Inducciones mesa 3,3,1
+2025-05-07,9:00,48,Trinidad,Sequence 3,3,6
+2025-05-07,10:00,48,Trinidad,Inducciones mesa 7,3,1
+2025-05-07,11:00,48,Trinidad,Sequence 3,3,6
+2025-05-07,12:00,48,Trinidad,Rechazo 3/4,3,5
+2025-05-07,13:00,48,Trinidad,Inducciones mesa 9,3,1
+2025-05-07,6:00,52,Humberto,Inducciones mesa 1,4,1
+2025-05-07,7:00,52,Humberto,Destinos mesa 9,4,2
+2025-05-07,8:00,52,Humberto,Sequence 4,4,6
+2025-05-07,9:00,52,Humberto,Inducciones mesa 9,4,1
+2025-05-07,10:00,52,Humberto,Destinos mesa 4,4,2
+2025-05-07,11:00,52,Humberto,Inducciones mesa 7,4,1
+2025-05-07,12:00,52,Humberto,Destinos mesa 5,4,2
+2025-05-07,13:00,52,Humberto,Inducciones mesa 6,4,1
+2025-05-07,6:00,54,Ignacio,Destinos mesa 5,3,2
+2025-05-07,7:00,54,Ignacio,Sequence 3,3,6
+2025-05-07,8:00,54,Ignacio,Inducciones mesa 7,3,1
+2025-05-07,9:00,54,Ignacio,Destinos mesa 5,3,2
+2025-05-07,10:00,54,Ignacio,Inducciones mesa 2,3,1
+2025-05-07,11:00,54,Ignacio,Destinos mesa 5,3,2
+2025-05-07,12:00,54,Ignacio,Inducciones mesa 5,3,1
+2025-05-07,13:00,54,Ignacio,Destinos mesa 10,3,2
+2025-05-07,6:00,60,Juan Bautista,Destinos mesa 8,3,2
+2025-05-07,7:00,60,Juan Bautista,Precintadora shipping,3,4
+2025-05-07,8:00,60,Juan Bautista,Destinos mesa 1,3,2
+2025-05-07,9:00,60,Juan Bautista,Rampas/cajas vacias,3,7
+2025-05-07,10:00,60,Juan Bautista,Precintadora shipping,3,4
+2025-05-07,11:00,60,Juan Bautista,Destinos mesa 1,3,2
+2025-05-07,12:00,60,Juan Bautista,Precintadora shipping,3,4
+2025-05-07,13:00,60,Juan Bautista,Destinos mesa 2,3,2
+2025-05-07,6:00,65,Oriana,Inducciones mesa 18,2,1
+2025-05-07,7:00,65,Oriana,Rechazo,2,5
+2025-05-07,8:00,65,Oriana,Inducciones mesa 15,2,1
+2025-05-07,9:00,65,Oriana,Sequence,2,6
+2025-05-07,10:00,65,Oriana,Inducciones mesa 9,2,1
+2025-05-07,11:00,65,Oriana,Chequeo,2,3
+2025-05-07,12:00,65,Oriana,Inducciones mesa 7,2,1
+2025-05-07,13:00,65,Oriana,Rechazo,2,5
+2025-05-07,6:00,68,Julio César,Inducciones mesa 11,2,1
+2025-05-07,7:00,68,Julio César,Rechazo,2,5
+2025-05-07,8:00,68,Julio César,Destinos mesa 11,2,2
+2025-05-07,9:00,68,Julio César,Rampas/cajas vacias,2,7
+2025-05-07,10:00,68,Julio César,Inducciones mesa 18,2,1
+2025-05-07,11:00,68,Julio César,Destinos mesa 12,2,2
+2025-05-07,12:00,68,Julio César,Inducciones mesa 19,2,1
+2025-05-07,13:00,68,Julio César,Rampas/cajas vacias,2,7
+2025-05-07,6:00,69,Edelmiro,Destinos mesa 6,4,2
+2025-05-07,7:00,69,Edelmiro,Inducciones mesa 10,4,1
+2025-05-07,8:00,69,Edelmiro,Destinos mesa 8,4,2
+2025-05-07,9:00,69,Edelmiro,Inducciones mesa 3,4,1
+2025-05-07,10:00,69,Edelmiro,Destinos mesa 3,4,2
+2025-05-07,11:00,69,Edelmiro,Inducciones mesa 5,4,1
+2025-05-07,12:00,69,Edelmiro,Destinos mesa 4,4,2
+2025-05-07,13:00,69,Edelmiro,Inducciones mesa 2,4,1
+2025-05-07,6:00,70,Perlita,Inducciones mesa 15,2,1
+2025-05-07,7:00,70,Perlita,Destinos mesa 2,2,2
+2025-05-07,8:00,70,Perlita,Sequence,2,6
+2025-05-07,9:00,70,Perlita,Chequeo,2,3
+2025-05-07,10:00,70,Perlita,Destinos mesa 19,2,2
+2025-05-07,11:00,70,Perlita,Inducciones mesa 2,2,1
+2025-05-07,12:00,70,Perlita,Destinos mesa 13,2,2
+2025-05-07,13:00,70,Perlita,Inducciones mesa 13,2,1
+2025-05-07,6:00,71,Jaime,Inducciones mesa 12,2,1
+2025-05-07,7:00,71,Jaime,Sequence,2,6
+2025-05-07,8:00,71,Jaime,Inducciones mesa 18,2,1
+2025-05-07,9:00,71,Jaime,Precintadora shipping,2,4
+2025-05-07,10:00,71,Jaime,Inducciones mesa 8,2,1
+2025-05-07,11:00,71,Jaime,Sequence,2,6
+2025-05-07,12:00,71,Jaime,Inducciones mesa 20,2,1
+2025-05-07,13:00,71,Jaime,Precintadora shipping,2,4
+2025-05-07,6:00,72,David,Inducciones mesa 4,4,1
+2025-05-07,7:00,72,David,Precintadora shuttle,4,8
+2025-05-07,8:00,72,David,Inducciones mesa 7,4,1
+2025-05-07,9:00,72,David,Destinos mesa 9,4,2
+2025-05-07,10:00,72,David,Inducciones mesa 6,4,1
+2025-05-07,11:00,72,David,Sequence 4,4,6
+2025-05-07,12:00,72,David,Inducciones mesa 8,4,1
+2025-05-07,13:00,72,David,Rampas/cajas vacias,4,7
+2025-05-07,6:00,73,Roberto,Inducciones mesa 11,2,1
+2025-05-07,7:00,73,Roberto,Destinos mesa 11,2,2
+2025-05-07,8:00,73,Roberto,Inducciones mesa 9,2,1
+2025-05-07,9:00,73,Roberto,Destinos mesa 6,2,2
+2025-05-07,10:00,73,Roberto,Inducciones mesa 1,2,1
+2025-05-07,11:00,73,Roberto,Destinos mesa 3,2,2
+2025-05-07,12:00,73,Roberto,Inducciones mesa 3,2,1
+2025-05-07,13:00,73,Roberto,Destinos mesa 2,2,2
+2025-05-07,6:00,80,Lupe,Destinos mesa 8,3,2
+2025-05-07,7:00,80,Lupe,Precintadora shipping,3,4
+2025-05-07,8:00,80,Lupe,Destinos mesa 9,3,2
+2025-05-07,9:00,80,Lupe,Sequence 3,3,6
+2025-05-07,10:00,80,Lupe,Rampas/cajas vacias,3,7
+2025-05-07,11:00,80,Lupe,Destinos mesa 5,3,2
+2025-05-07,12:00,80,Lupe,Precintadora shuttle,3,8
+2025-05-07,13:00,80,Lupe,Destinos mesa 5,3,2
+2025-05-07,6:00,81,Adelina,Inducciones mesa 7,4,1
+2025-05-07,7:00,81,Adelina,Sequence 4,4,6
+2025-05-07,8:00,81,Adelina,Precintadora shuttle,4,8
+2025-05-07,9:00,81,Adelina,Sequence 4,4,6
+2025-05-07,10:00,81,Adelina,Inducciones mesa 2,4,1
+2025-05-07,11:00,81,Adelina,Precintadora shipping,4,4
+2025-05-07,12:00,81,Adelina,Sequence 4,4,6
+2025-05-07,13:00,81,Adelina,Inducciones mesa 2,4,1
+2025-05-07,6:00,84,Abraham,Inducciones mesa 2,3,1
+2025-05-07,7:00,84,Abraham,Destinos mesa 5,3,2
+2025-05-07,8:00,84,Abraham,Inducciones mesa 8,3,1
+2025-05-07,9:00,84,Abraham,Destinos mesa 2,3,2
+2025-05-07,10:00,84,Abraham,Inducciones mesa 4,3,1
+2025-05-07,11:00,84,Abraham,Destinos mesa 4,3,2
+2025-05-07,12:00,84,Abraham,Precintadora shipping,3,4
+2025-05-07,13:00,84,Abraham,Inducciones mesa 7,3,1
+2025-05-07,6:00,87,Emiliano,Destinos mesa 10,3,2
+2025-05-07,7:00,87,Emiliano,Precintadora shuttle,3,8
+2025-05-07,8:00,87,Emiliano,Destinos mesa 7,3,2
+2025-05-07,9:00,87,Emiliano,Precintadora shipping,3,4
+2025-05-07,10:00,87,Emiliano,Destinos mesa 4,3,2
+2025-05-07,11:00,87,Emiliano,Sequence 3,3,6
+2025-05-07,12:00,87,Emiliano,Precintadora shuttle,3,8
+2025-05-07,13:00,87,Emiliano,Rechazo 3/4,3,5
+2025-05-07,6:00,89,Isabel,Inducciones mesa 4,4,1
+2025-05-07,7:00,89,Isabel,Destinos mesa 9,4,2
+2025-05-07,8:00,89,Isabel,Sequence 4,4,6
+2025-05-07,9:00,89,Isabel,Inducciones mesa 9,4,1
+2025-05-07,10:00,89,Isabel,Precintadora shuttle,4,8
+2025-05-07,11:00,89,Isabel,Destinos mesa 9,4,2
+2025-05-07,12:00,89,Isabel,Inducciones mesa 4,4,1
+2025-05-07,13:00,89,Isabel,Destinos mesa 5,4,2
+2025-05-07,6:00,95,Mamen,Inducciones mesa 10,2,1
+2025-05-07,7:00,95,Mamen,Sequence,2,6
+2025-05-07,8:00,95,Mamen,Inducciones mesa 2,2,1
+2025-05-07,9:00,95,Mamen,Chequeo,2,3
+2025-05-07,10:00,95,Mamen,Inducciones mesa 10,2,1
+2025-05-07,11:00,95,Mamen,Chequeo,2,3
+2025-05-07,12:00,95,Mamen,Inducciones mesa 14,2,1
+2025-05-07,13:00,95,Mamen,Sequence,2,6
+2025-05-07,6:00,96,Abraham,Inducciones mesa 18,2,1
+2025-05-07,7:00,96,Abraham,Destinos mesa 15,2,2
+2025-05-07,8:00,96,Abraham,Sequence,2,6
+2025-05-07,9:00,96,Abraham,Destinos mesa 17,2,2
+2025-05-07,10:00,96,Abraham,Inducciones mesa 13,2,1
+2025-05-07,11:00,96,Abraham,Destinos mesa 17,2,2
+2025-05-07,12:00,96,Abraham,Inducciones mesa 6,2,1
+2025-05-07,13:00,96,Abraham,Destinos mesa 11,2,2
+2025-05-07,6:00,99,Leire,Inducciones mesa 1,4,1
+2025-05-07,7:00,99,Leire,Precintadora shuttle,4,8
+2025-05-07,8:00,99,Leire,Destinos mesa 5,4,2
+2025-05-07,9:00,99,Leire,Inducciones mesa 5,4,1
+2025-05-07,10:00,99,Leire,Precintadora shipping,4,4
+2025-05-07,11:00,99,Leire,Destinos mesa 3,4,2
+2025-05-07,12:00,99,Leire,Inducciones mesa 6,4,1
+2025-05-07,13:00,99,Leire,Destinos mesa 7,4,2
+2025-05-07,6:00,103,Nélida,Rampas/cajas vacias,2,7
+2025-05-07,7:00,103,Nélida,Inducciones mesa 2,2,1
+2025-05-07,8:00,103,Nélida,Sequence,2,6
+2025-05-07,9:00,103,Nélida,Inducciones mesa 12,2,1
+2025-05-07,10:00,103,Nélida,Destinos mesa 8,2,2
+2025-05-07,11:00,103,Nélida,Inducciones mesa 1,2,1
+2025-05-07,12:00,103,Nélida,Destinos mesa 12,2,2
+2025-05-07,13:00,103,Nélida,Inducciones mesa 12,2,1
+2025-05-07,6:00,111,Emilia,Destinos mesa 7,2,2
+2025-05-07,7:00,111,Emilia,Inducciones mesa 17,2,1
+2025-05-07,8:00,111,Emilia,Destinos mesa 11,2,2
+2025-05-07,9:00,111,Emilia,Inducciones mesa 10,2,1
+2025-05-07,10:00,111,Emilia,Destinos mesa 7,2,2
+2025-05-07,11:00,111,Emilia,Inducciones mesa 3,2,1
+2025-05-07,12:00,111,Emilia,Rechazo,2,5
+2025-05-07,13:00,111,Emilia,Destinos mesa 4,2,2
+2025-05-07,6:00,117,Olalla,Precintadora shipping,3,4
+2025-05-07,7:00,117,Olalla,Inducciones mesa 3,3,1
+2025-05-07,8:00,117,Olalla,Destinos mesa 8,3,2
+2025-05-07,9:00,117,Olalla,Inducciones mesa 7,3,1
+2025-05-07,10:00,117,Olalla,Sequence 3,3,6
+2025-05-07,11:00,117,Olalla,Destinos mesa 3,3,2
+2025-05-07,12:00,117,Olalla,Inducciones mesa 9,3,1
+2025-05-07,13:00,117,Olalla,Destinos mesa 1,3,2
+2025-05-07,6:00,125,Epifanio,Destinos mesa 17,2,2
+2025-05-07,7:00,125,Epifanio,Inducciones mesa 18,2,1
+2025-05-07,8:00,125,Epifanio,Rampas/cajas vacias,2,7
+2025-05-07,9:00,125,Epifanio,Destinos mesa 15,2,2
+2025-05-07,10:00,125,Epifanio,Inducciones mesa 12,2,1
+2025-05-07,11:00,125,Epifanio,Destinos mesa 10,2,2
+2025-05-07,12:00,125,Epifanio,Sequence,2,6
+2025-05-07,13:00,125,Epifanio,Destinos mesa 18,2,2
+2025-05-07,6:00,129,Jennifer,Destinos mesa 8,3,2
+2025-05-07,7:00,129,Jennifer,Inducciones mesa 1,3,1
+2025-05-07,8:00,129,Jennifer,Destinos mesa 2,3,2
+2025-05-07,9:00,129,Jennifer,Precintadora shuttle,3,8
+2025-05-07,10:00,129,Jennifer,Destinos mesa 7,3,2
+2025-05-07,11:00,129,Jennifer,Inducciones mesa 4,3,1
+2025-05-07,12:00,129,Jennifer,Precintadora shuttle,3,8
+2025-05-07,13:00,129,Jennifer,Destinos mesa 8,3,2
+2025-05-07,6:00,130,Azahara,Inducciones mesa 3,3,1
+2025-05-07,7:00,130,Azahara,Destinos mesa 8,3,2
+2025-05-07,8:00,130,Azahara,Inducciones mesa 7,3,1
+2025-05-07,9:00,130,Azahara,Precintadora shuttle,3,8
+2025-05-07,10:00,130,Azahara,Destinos mesa 3,3,2
+2025-05-07,11:00,130,Azahara,Inducciones mesa 7,3,1
+2025-05-07,12:00,130,Azahara,Destinos mesa 10,3,2
+2025-05-07,13:00,130,Azahara,Inducciones mesa 4,3,1
+2025-05-07,6:00,132,Calista,Destinos mesa 1,2,2
+2025-05-07,7:00,132,Calista,Inducciones mesa 14,2,1
+2025-05-07,8:00,132,Calista,Precintadora shipping,2,4
+2025-05-07,9:00,132,Calista,Inducciones mesa 19,2,1
+2025-05-07,10:00,132,Calista,Destinos mesa 3,2,2
+2025-05-07,11:00,132,Calista,Rampas/cajas vacias,2,7
+2025-05-07,12:00,132,Calista,Inducciones mesa 3,2,1
+2025-05-07,13:00,132,Calista,Destinos mesa 12,2,2
+2025-05-07,6:00,134,Loreto,Inducciones mesa 9,2,1
+2025-05-07,7:00,134,Loreto,Destinos mesa 8,2,2
+2025-05-07,8:00,134,Loreto,Inducciones mesa 9,2,1
+2025-05-07,9:00,134,Loreto,Destinos mesa 4,2,2
+2025-05-07,10:00,134,Loreto,Inducciones mesa 15,2,1
+2025-05-07,11:00,134,Loreto,Sequence,2,6
+2025-05-07,12:00,134,Loreto,Destinos mesa 4,2,2
+2025-05-07,13:00,134,Loreto,Inducciones mesa 1,2,1
+2025-05-07,6:00,137,Esmeralda,Destinos mesa 4,3,2
+2025-05-07,7:00,137,Esmeralda,Precintadora shipping,3,4
+2025-05-07,8:00,137,Esmeralda,Destinos mesa 7,3,2
+2025-05-07,9:00,137,Esmeralda,Precintadora shuttle,3,8
+2025-05-07,10:00,137,Esmeralda,Destinos mesa 3,3,2
+2025-05-07,11:00,137,Esmeralda,Precintadora shipping,3,4
+2025-05-07,12:00,137,Esmeralda,Destinos mesa 2,3,2
+2025-05-07,13:00,137,Esmeralda,Sequence 3,3,6
+2025-05-07,6:00,138,Octavio,Inducciones mesa 9,2,1
+2025-05-07,7:00,138,Octavio,Destinos mesa 7,2,2
+2025-05-07,8:00,138,Octavio,Inducciones mesa 5,2,1
+2025-05-07,9:00,138,Octavio,Sequence,2,6
+2025-05-07,10:00,138,Octavio,Inducciones mesa 15,2,1
+2025-05-07,11:00,138,Octavio,Destinos mesa 12,2,2
+2025-05-07,12:00,138,Octavio,Inducciones mesa 17,2,1
+2025-05-07,13:00,138,Octavio,Destinos mesa 16,2,2
+2025-05-07,6:00,139,Pancho,Destinos mesa 8,2,2
+2025-05-07,7:00,139,Pancho,Inducciones mesa 11,2,1
+2025-05-07,8:00,139,Pancho,Destinos mesa 1,2,2
+2025-05-07,9:00,139,Pancho,Inducciones mesa 5,2,1
+2025-05-07,10:00,139,Pancho,Destinos mesa 17,2,2
+2025-05-07,11:00,139,Pancho,Inducciones mesa 4,2,1
+2025-05-07,12:00,139,Pancho,Destinos mesa 18,2,2
+2025-05-07,13:00,139,Pancho,Inducciones mesa 1,2,1
+2025-05-07,6:00,143,Marita,Destinos mesa 8,2,2
+2025-05-07,7:00,143,Marita,Inducciones mesa 20,2,1
+2025-05-07,8:00,143,Marita,Destinos mesa 7,2,2
+2025-05-07,9:00,143,Marita,Inducciones mesa 19,2,1
+2025-05-07,10:00,143,Marita,Destinos mesa 20,2,2
+2025-05-07,11:00,143,Marita,Inducciones mesa 9,2,1
+2025-05-07,12:00,143,Marita,Destinos mesa 19,2,2
+2025-05-07,13:00,143,Marita,Inducciones mesa 12,2,1
+2025-05-07,6:00,144,José Luis,Destinos mesa 4,4,2
+2025-05-07,7:00,144,José Luis,Sequence 4,4,6
+2025-05-07,8:00,144,José Luis,Destinos mesa 1,4,2
+2025-05-07,9:00,144,José Luis,Inducciones mesa 1,4,1
+2025-05-07,10:00,144,José Luis,Precintadora shipping,4,4
+2025-05-07,11:00,144,José Luis,Destinos mesa 10,4,2
+2025-05-07,12:00,144,José Luis,Inducciones mesa 9,4,1
+2025-05-07,13:00,144,José Luis,Precintadora shipping,4,4
