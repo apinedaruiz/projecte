@@ -3,7 +3,7 @@ import numpy as np
 import os
 from sqlalchemy import create_engine
 from ortools.sat.python import cp_model
-
+from minio import Minio  # 🔥 NOVA línia: Minio client
 
 # Connexió SQL Server
 username = 'apineda'
@@ -14,9 +14,17 @@ driver = 'ODBC Driver 17 for SQL Server'
 connection_url = f'mssql+pyodbc://{username}:{password}@{server}/{database}?driver={driver}'
 engine = create_engine(connection_url)
 
+# 📥 Connexió a MiniO
+minio_client = Minio(
+    "localhost:9000",
+    access_key="minioadmin",
+    secret_key="minioadmin",
+    secure=False
+)
+bucket_name = "assignacions-csv"  # Assegura't que existeix a MiniO!
+
 # Carregar dades
 posicions = pd.read_sql("SELECT * FROM posicions", engine)
-# Convertir a tipus enter per evitar errors amb OR-Tools
 posicions['clasificador'] = posicions['clasificador'].astype(int)
 posicions['familia'] = posicions['familia'].astype(int)
 posicions['id_limitacio'] = posicions['id_limitacio'].astype(int)
@@ -27,7 +35,6 @@ df_calendari = pd.read_sql("SELECT * FROM calendari_laboral WHERE es_laborable =
 
 # Obtenir els pròxims 7 dies laborables
 avui = pd.Timestamp.today().normalize()
-# Renombrar columnes perquè to_datetime les entengui
 df_calendari_rename = df_calendari.rename(columns={'aany': 'year', 'numero_mes': 'month', 'numero_dia': 'day'})
 df_calendari['data'] = pd.to_datetime(df_calendari_rename[['year', 'month', 'day']])
 taula_laborables = df_calendari[df_calendari['data'] >= avui].sort_values('data').head(7)
@@ -44,7 +51,6 @@ def generar_assignacions_dia(data):
     n_hores = 8
     n_posicions = len(posicions)
 
-    # Variables de decisió: assignacio[t, h] = índex posició
     assignacio = {}
     for t in range(n_treballadors):
         for h in range(n_hores):
@@ -55,13 +61,11 @@ def generar_assignacions_dia(data):
         id_treb = treballador['id_treballador']
         limitacions = limitacions_dict.get(id_treb, set())
 
-        # Mantenir el mateix clasificador tot el dia
         primer_clas = model.NewIntVar(0, 1000, f"clasificador_t{t}")
         for h in range(n_hores):
             pos_idx = assignacio[(t, h)]
             model.AddElement(pos_idx, posicions['clasificador'].tolist(), primer_clas)
 
-        # Evitar mateixa família en hores consecutives
         for h in range(n_hores - 1):
             f1 = model.NewIntVar(0, 1000, f"fam_{t}_{h}")
             f2 = model.NewIntVar(0, 1000, f"fam_{t}_{h+1}")
@@ -69,7 +73,6 @@ def generar_assignacions_dia(data):
             model.AddElement(assignacio[(t, h+1)], posicions['familia'].tolist(), f2)
             model.Add(f1 != f2)
 
-        # Evitar limitacions
         if limitacions:
             for h in range(n_hores):
                 for id_lim in limitacions:
@@ -78,16 +81,13 @@ def generar_assignacions_dia(data):
                     model.AddElement(assignacio[(t, h)], lim_vec, v)
                     model.Add(v == 0)
 
-    # Opcional: millorar diversitat de famílies vistes (objectiu)
     objectiu = model.NewIntVar(0, 10000, "objectiu")
-    model.Maximize(objectiu)  # No és essencial ara
+    model.Maximize(objectiu)
 
-    # Solver
     solver = cp_model.CpSolver()
     solver.parameters.max_time_in_seconds = 30
     status = solver.Solve(model)
 
-    # Resultat
     if status in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
         assignacions = []
         for t in range(n_treballadors):
@@ -110,8 +110,12 @@ def generar_assignacions_dia(data):
         print(f"No s'ha trobat cap solució per {data}")
         return pd.DataFrame()
 
-# Executar per cada dia
+# 🔥 Funció nova: pujar fitxer a MiniO
+def pujar_a_minio(path_local, nom_objecte):
+    minio_client.fput_object(bucket_name, nom_objecte, path_local)
+    print(f"✅ Fitxer pujat a MiniO: {nom_objecte}")
 
+# Executar per cada dia
 for data in dies_laborables:
     assignacions_dia = generar_assignacions_dia(data)
     df_dia = pd.DataFrame(assignacions_dia)
@@ -120,4 +124,7 @@ for data in dies_laborables:
     output_path = os.path.join(output_folder, f"assignacions_{data}.csv")
     df_dia.to_csv(output_path, index=False, encoding='utf-8-sig')
 
-    print(f"✔️ Assignacions generades per {data}: {output_path}")
+    # 🔥 NOVETAT: pujar el CSV acabat al bucket
+    pujar_a_minio(output_path, f"assignacions_cpsat/assignacions_{data}.csv")
+
+    print(f"✔️ Assignacions generades i pujades per {data}")
